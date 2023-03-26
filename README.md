@@ -8,6 +8,13 @@ Here's the Live Deployed Website of ![Project05Badge](https://img.shields.io/bad
 ## E-commerce Application [DEPLOYED LINK](https://e-commerce-roc8.netlify.app/)
 
 
+## Web Application Snaps
+
+![websiteSnap](./readmeImages/Image1.png)
+![websiteSnap](./readmeImages/Image2.png)
+![websiteSnap](./readmeImages/Image3.png)
+![websiteSnap](./readmeImages/Image4.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
